@@ -1,0 +1,47 @@
+import os 
+os.system("termux-open https://www.youtube.com/channel/UCrDpucyeuECBfVPXrdav6xw")
+THESCORPION= '''
+╔═╦═╗╔═╗╔══╗╔╦╗╔═╗╔═╦╗────╔╗╔╗╔══╗╔═╗╔╦╗────╔═╦╗╔═╦═╗
+║║║║║║║║║══╣║╔╝║║║║║║║╔══╗║╚╝║║╔╗║║╔╝║╔╝╔══╗╚╗║║║║║║║
+║║║║║║║║╠══║║╚╗║║║║║║║╚══╝║╔╗║║╠╣║║╚╗║╚╗╚══╝╔╩╗║║║║║║
+╚╩═╩╝╚═╝╚══╝╚╩╝╚═╝╚╩═╝────╚╝╚╝╚╝╚╝╚═╝╚╩╝────╚══╝╚╩═╩╝
+─────────────────────────────────────────────────────
+'''
+print (THESCORPION)
+os.system("apt update")
+os.system("apt upgrade")
+os.system("apt install python")
+os.system("apt install python2")
+os.system("apt install git")
+os.system("apt install golang")
+os.system("apt install host") 
+os.system("apt install nano")
+os.system("apt install havij")
+os.system("apt install hydra")
+os.system("apt install wireshark") 
+os.system("apt install cmatrix")
+os.system("pkg install figlet")
+os.system("pkg install wget")
+os.system("pkg install wget -y")
+os.system("pkg install python2 -y")
+os.system("pkg install python2-dev -y")
+os.system("apt install wireshark") 
+os.system("pkg install cowsay")
+os.system("pkg install toilet")
+os.system("pkg install ruby")
+os.system("pkg install help")
+os.system("gem install lolcat")
+os.system("pkg install curl")
+os.system("pkg install wgetrc")
+os.system("pkg install unzip")
+os.system("pkg install openssh")
+os.system("pkg install tor")
+os.system("pkg install tar")
+os.system("pkg install zip")
+os.system("pkg install net-tools")
+os.system("pkg install unrar")
+os.system("pkg install clang")
+os.system("pkg install w3m")
+os.system("pkg install proot")
+os.system("pip2 install wget")
+os.system("pip2 install requests")
